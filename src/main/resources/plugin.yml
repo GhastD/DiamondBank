@@ -1,0 +1,6 @@
+name: DiamondBank
+version: ${project.version}
+main: cc.ghast.diamondbank.DiamondBank
+api-version: 1.13
+authors: [Ghast]
+description: Diamond based economy plugin
